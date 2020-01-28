@@ -1,0 +1,20 @@
+
+.login-card {
+	width 			: 500px;
+	margin 			: 50px auto 50px auto;
+}
+
+.login-card-footer{
+	margin-top : 20px;
+	margin-bottom : 20px;
+	text-align : center;
+}
+
+
+.login-marginTop-10 {
+	margin-top  	: 10px;
+}
+
+.login-marginLeft-20 {
+	margin-left		: 20px;
+}

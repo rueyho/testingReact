@@ -1,0 +1,40 @@
+.main-container {
+  overflow-y: auto;
+}
+
+.main-container-body {
+  max-width: 1200px;
+  margin: 0px auto;
+  padding-top: 66px; /* header height  */
+  overflow-y: auto;
+}
+/* .main-content-wrapper {
+  margin-top: 64px;
+} */
+
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+  .main-container-body {
+    padding-bottom: 55px;
+  }
+}
+
+@media only screen and (max-width: 599.95px) {
+  .main-container-body {
+    padding-top: 56px;
+    padding-bottom: 60px;
+  }
+  .main-container-body.front {
+    padding-bottom: 0;
+  }
+}
+
+.hoverList div:hover {
+  color: #fff;
+  background-color: #ef4233;
+}
+
+@media (max-width: 799px) {
+  .tnc-wrapper {
+    width: 100% !important;
+  }
+}
