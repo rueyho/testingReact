@@ -33,7 +33,7 @@ export const AppConstant = {
   navigateRootPath: "/",
 
   isDebug: function() {
-    return true;
+    return false;
     // if (
     //   window.location.hostname.indexOf("localhost") !== -1 &&
     //   window.location.port === 3000
