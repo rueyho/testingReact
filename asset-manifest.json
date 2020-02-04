@@ -9,19 +9,19 @@
     "static/js/3.44ae9325.chunk.js": "/testingReact/static/js/3.44ae9325.chunk.js",
     "static/js/3.44ae9325.chunk.js.map": "/testingReact/static/js/3.44ae9325.chunk.js.map",
     "main.css": "/testingReact/static/css/main.492d099e.chunk.css",
-    "main.js": "/testingReact/static/js/main.d294a31d.chunk.js",
-    "main.js.map": "/testingReact/static/js/main.d294a31d.chunk.js.map",
-    "runtime-main.js": "/testingReact/static/js/runtime-main.5808a205.js",
-    "runtime-main.js.map": "/testingReact/static/js/runtime-main.5808a205.js.map",
+    "main.js": "/testingReact/static/js/main.1d9568c4.chunk.js",
+    "main.js.map": "/testingReact/static/js/main.1d9568c4.chunk.js.map",
+    "runtime-main.js": "/testingReact/static/js/runtime-main.7a964eb2.js",
+    "runtime-main.js.map": "/testingReact/static/js/runtime-main.7a964eb2.js.map",
     "static/js/6.ffaa2d50.chunk.js": "/testingReact/static/js/6.ffaa2d50.chunk.js",
     "static/js/6.ffaa2d50.chunk.js.map": "/testingReact/static/js/6.ffaa2d50.chunk.js.map",
     "static/js/7.cb941169.chunk.js": "/testingReact/static/js/7.cb941169.chunk.js",
     "static/js/7.cb941169.chunk.js.map": "/testingReact/static/js/7.cb941169.chunk.js.map",
-    "static/js/8.4f436939.chunk.js": "/testingReact/static/js/8.4f436939.chunk.js",
-    "static/js/8.4f436939.chunk.js.map": "/testingReact/static/js/8.4f436939.chunk.js.map",
+    "static/js/8.5d999721.chunk.js": "/testingReact/static/js/8.5d999721.chunk.js",
+    "static/js/8.5d999721.chunk.js.map": "/testingReact/static/js/8.5d999721.chunk.js.map",
     "static/css/9.cc0e3a15.chunk.css": "/testingReact/static/css/9.cc0e3a15.chunk.css",
-    "static/js/9.1e164124.chunk.js": "/testingReact/static/js/9.1e164124.chunk.js",
-    "static/js/9.1e164124.chunk.js.map": "/testingReact/static/js/9.1e164124.chunk.js.map",
+    "static/js/9.93a4840f.chunk.js": "/testingReact/static/js/9.93a4840f.chunk.js",
+    "static/js/9.93a4840f.chunk.js.map": "/testingReact/static/js/9.93a4840f.chunk.js.map",
     "static/js/10.ec5ba8d5.chunk.js": "/testingReact/static/js/10.ec5ba8d5.chunk.js",
     "static/js/10.ec5ba8d5.chunk.js.map": "/testingReact/static/js/10.ec5ba8d5.chunk.js.map",
     "static/js/11.1fd5d04a.chunk.js": "/testingReact/static/js/11.1fd5d04a.chunk.js",
@@ -33,7 +33,7 @@
     "static/js/14.646b3e85.chunk.js": "/testingReact/static/js/14.646b3e85.chunk.js",
     "static/js/14.646b3e85.chunk.js.map": "/testingReact/static/js/14.646b3e85.chunk.js.map",
     "index.html": "/testingReact/index.html",
-    "precache-manifest.560eb334c20c0af3fa418ce87e7cce48.js": "/testingReact/precache-manifest.560eb334c20c0af3fa418ce87e7cce48.js",
+    "precache-manifest.8893fe8c024a6097c8982334726a34f4.js": "/testingReact/precache-manifest.8893fe8c024a6097c8982334726a34f4.js",
     "service-worker.js": "/testingReact/service-worker.js",
     "static/css/9.cc0e3a15.chunk.css.map": "/testingReact/static/css/9.cc0e3a15.chunk.css.map",
     "static/css/main.492d099e.chunk.css.map": "/testingReact/static/css/main.492d099e.chunk.css.map",
@@ -41,9 +41,9 @@
     "static/media/bg-login.jpeg": "/testingReact/static/media/bg-login.e2d82b53.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5808a205.js",
+    "static/js/runtime-main.7a964eb2.js",
     "static/js/6.ffaa2d50.chunk.js",
     "static/css/main.492d099e.chunk.css",
-    "static/js/main.d294a31d.chunk.js"
+    "static/js/main.1d9568c4.chunk.js"
   ]
 }
